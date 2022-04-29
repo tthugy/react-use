@@ -9,7 +9,7 @@ function UseState() {
 
   return (
     <div>
-      <h1>Hello {item}</h1>
+      <h1>Hello State {item}</h1>
       <button onClick={increase}>INCREASE</button>
       <button onClick={decrease}>DECREASE</button>
     </div>
